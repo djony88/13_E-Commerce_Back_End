@@ -32,8 +32,8 @@ Product.init(
       defaultValue: 10,
       validate: {
         isNumeric: true
-      },
-
+      }
+    },
       // define price
       price: {
         type: DataTypes.DECIMAL(10, 2),
@@ -51,8 +51,7 @@ Product.init(
           key: "id"
         }
       }
-    }
-  },
+    },
   
   {
     sequelize,
