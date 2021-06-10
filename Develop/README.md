@@ -6,7 +6,7 @@ UCSD-SD-FSF-PT-03-2021-U-C-MW
 
 [GitHub link](https://github.com/djony88/13_E-Commerce_Back_End/tree/main/Develop)
 
-[Preview video]()
+[Preview video](https://drive.google.com/file/d/1Afl2NJGrTuV6e5SxVVMO6U-hoeX1OFiT/view)
 
 # Requirements:
 
